@@ -3,4 +3,5 @@ venv
 doc
 screenshot
 .env
+.vscode/
 
